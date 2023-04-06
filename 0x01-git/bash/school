@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-#!/bin/bas
+#!/bin/bash
 echo "The school is open!"
 =======
 #!/bin/bash
